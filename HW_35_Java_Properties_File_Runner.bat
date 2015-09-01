@@ -1,1 +1,0 @@
-HW_35_Java_Properties_File.bat gpitvl2thw HW_35_Java_Properties_File 1.5 core.HtmlUnit
